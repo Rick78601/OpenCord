@@ -21,7 +21,7 @@
 
 ## Preview
 
-|                          Chat                           |                          Drawer                           |
+|                          Chat                           |                            Drawer                           |
 |:-------------------------------------------------------:|:---------------------------------------------------------:|
 |    <img src=".github/assets/chat.png" width="200"/>     |    <img src=".github/assets/drawer.png" width="200"/>     |
 | <img src=".github/assets/themed_chat.png" width="200"/> | <img src=".github/assets/themed_drawer.png" width="200"/> |
